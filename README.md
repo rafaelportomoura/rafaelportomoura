@@ -60,3 +60,7 @@ Here are some ideas to get you started:
 [linkedin-icon]: images/icons/linkedin-azul.png
 [github-icon]: images/icons/github.png
 [gitlab-icon]: images/icons/gitlab.png
+
+***
+
+![](https://komarev.com/ghpvc/?username=rafaelportomoura&color=blue&style=flat)
