@@ -13,7 +13,7 @@
 
 # OI, TUDO BEM? BEM VINDO AO MEU GITHUB 🤙
 
-Primeiro deixa eu me apresentar, meu nome é Rafael, sou Brasileiro, pra ser mais específico sou de Minas Gerais. Tenho 21 anos de idade e atualmente trabalho na [Comp Júnior][sitecomp] como desenvolvedor back-end e curso Ciência da Computação na [UFLA][siteufla].  
+Primeiro deixa eu me apresentar, meu nome é Rafael, sou Brasileiro, pra ser mais específico sou de Minas Gerais. Tenho 21 anos de idade e atualmente trabalho na [iClubs][siteiclubs] como desenvolvedor back-end e curso Ciência da Computação na [UFLA][siteufla].  
 
 Sou apaixonado por: 
 * 🖥️💗 Programação, é sempre um grande prazer estudar novas linguagens e tecnologias 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 <!-- URLS -->
-[sitecomp]: https://compjunior.com.br
+[siteiclubs]: https://www.iclubs.tech/
 [siteufla]: https://ufla.br
 [linkedin-url]: https://www.linkedin.com/in/rafael-porto-vieira-de-moura-369307168/
 [github-url]: https://github.com/rafaelportomoura  
