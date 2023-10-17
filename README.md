@@ -1,5 +1,3 @@
-![capa][capagithub]
-
 <center>
 <table>
     <tr>
@@ -13,7 +11,7 @@
 
 # OI, TUDO BEM? BEM VINDO AO MEU GITHUB 🤙
 
-Primeiro deixa eu me apresentar, meu nome é Rafael, sou Brasileiro, pra ser mais específico sou de Minas Gerais. Tenho 21 anos de idade e atualmente trabalho na [iClubs][siteiclubs] como desenvolvedor back-end e curso Ciência da Computação na [UFLA][siteufla].  
+Primeiro deixa eu me apresentar, meu nome é Rafael, sou Brasileiro, pra ser mais específico sou de Minas Gerais. Tenho 21 anos de idade e atualmente trabalho na [Zappts][sitejob] como desenvolvedor back-end e curso Ciência da Computação na [UFLA][siteufla].  
 
 Sou apaixonado por: 
 * 🖥️💗 Programação, é sempre um grande prazer estudar novas linguagens e tecnologias 
@@ -29,7 +27,6 @@ Um fato curioso sobre mim é que eu nasci no dia 29/02 e faço aniversário so d
 Onde me encontrar? 🔍  
 [![linkedin][linkedin-icon]][linkedin-url] [Linkedin][linkedin-url]   
 [![GitHub][github-icon]][github-url] [GitHub][github-url]    
-[![GitLab][gitlab-icon]][gitlab-url] [GitLab][gitlab-url]  
  📫 rafael.moura.dev.29@gmail.com
  
 <!--
@@ -49,7 +46,7 @@ Here are some ideas to get you started:
 
 
 <!-- URLS -->
-[siteiclubs]: https://www.iclubs.tech/
+[sitejob]: [https://www.zappts.com.br/]
 [siteufla]: https://ufla.br
 [linkedin-url]: https://www.linkedin.com/in/rafael-porto-vieira-de-moura-369307168/
 [github-url]: https://github.com/rafaelportomoura  
